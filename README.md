@@ -22,8 +22,9 @@ It is built using HTML, CSS, and JavaScript.
 
 1. Clone or download the repository:
 
+```bash
     git clone https://github.com/ShriBangera/Stopwatch.git
-
+```
 
 2. Open index.html in a web browser.
 
